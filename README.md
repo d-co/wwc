@@ -1,6 +1,6 @@
 # wwc
 
-This is a basic git repo!!
+This IS NOT a basic git repo!!
 Hello
 
 
