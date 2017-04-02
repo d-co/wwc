@@ -1,7 +1,7 @@
 # wwc
 
 This IS a basic git repo!!
-Hello
+Hello Women WHO CODE!!
 
 
 Why hello!
