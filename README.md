@@ -1,4 +1,5 @@
 # wwc
+is also typing here
 
 This IS a basic git repo!!
 Hello Women WHO CODE!!
