@@ -5,7 +5,7 @@ This IS a basic git repo!!
 Hello Everyone!!
 
 
-Why hello!
+Why hi!
 
 hello!
 Adding another line
