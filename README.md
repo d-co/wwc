@@ -5,6 +5,8 @@ I'm in here
 Hi, this is new code
 HI
 
+I'm writing some stuff
+
 This IS a basic git repo!!
 Hello Everyone!!
 
